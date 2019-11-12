@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Publikujemy pierwszy program");
         System.out.println("kolejna zmiana");
+        System.out.println("Edycja przez wspolpracownika");
+        // konflik rozwiazany
     }
 }
