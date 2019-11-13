@@ -1,0 +1,36 @@
+[33mcommit 14e29f7659ec8ca325aa4f5aeb2c2367c033bc3d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: boro <pawel.borowicki@gmail.com>
+Date:   Tue Nov 12 20:20:26 2019 +0100
+
+    dodanie nowej funkcjonalnosci
+
+[33mcommit 0104a4f542adb09ec9d9ca2a8418901f678b3d7d[m[33m ([m[1;31morigin/stable_v1[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mstable_v1[m[33m)[m
+Merge: 13600be 6a07707
+Author: boro <pawel.borowicki@gmail.com>
+Date:   Tue Nov 12 20:04:44 2019 +0100
+
+    rozwiazanie konfliku w projekcie
+
+[33mcommit 13600befe15024e998560577d28b3f81aa2c4503[m
+Author: boro <pawel.borowicki@gmail.com>
+Date:   Tue Nov 12 19:57:04 2019 +0100
+
+    druga zmiana w projekcie
+
+[33mcommit 6a07707b9aab1f1f474b7e39932124da25d4c1e6[m
+Author: borowik10 <57679810+borowik10@users.noreply.github.com>
+Date:   Tue Nov 12 19:55:23 2019 +0100
+
+    Update Main.java
+
+[33mcommit 09e8dd24d748ed4bb5379f57fb9c0d52d6127cc0[m
+Author: boro <pawel.borowicki@gmail.com>
+Date:   Tue Nov 12 19:38:45 2019 +0100
+
+    start projektu
+
+[33mcommit 0b2449e54fbcf77faeddbd168a462a8dfc82c27c[m
+Author: boro <pawel.borowicki@gmail.com>
+Date:   Tue Nov 12 18:57:07 2019 +0100
+
+    start projektu
